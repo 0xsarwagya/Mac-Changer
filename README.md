@@ -1,0 +1,5 @@
+MAC spoofing is a technique for changing a factory-assigned Media Access Control (MAC) address of a network interface on a networked device. The MAC address that is hard-coded on a network interface controller (NIC) cannot be changed. However, many drivers allow the MAC address to be changed. Additionally, there are tools which can make an operating system believe that the NIC has the MAC address of a user's choosing. The process of masking a MAC address is known as MAC spoofing. Essentially, MAC spoofing entails changing a computer's identity, for any reason
+
+In the firmware of the network adapter chip, every network adapter has a unique MAC address embedded by the manufacturer. Sometimes you may need to find out or change the MAC address of the network adapter especially if it is used for Internet access authentication. Some users, for security reasons, opt to hide their MAC address.
+
+With this program, you can now easily spoof the MAC address. With a few clicks, users will be able to change their MAC addresses. During this operation, it is possible to select a different manufacturer or generate a completely random MAC address.
